@@ -1,0 +1,4 @@
+import bypasahsan
+
+bypasahsan.fuck()
+
